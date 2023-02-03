@@ -20245,6 +20245,10 @@ select {
   background: #00baff;
 }
 
+.blocker {
+  z-index: 99999;
+}
+
 .p-request-detail {
   padding: 60px 0;
   background: #f2f2f2;
