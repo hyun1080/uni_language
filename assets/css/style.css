@@ -20246,7 +20246,7 @@ select {
 }
 
 .blocker {
-  z-index: 99999;
+  z-index: 99999 !important;
 }
 
 .p-request-detail {
@@ -25156,15 +25156,15 @@ select {
 }
 .p-mypage-mylesson-detail__list__item__modal__title {
   width: 100%;
-  padding: 10px;
-  font-size: 1.6rem;
+  padding: 5px 10px;
+  font-size: 1.4rem;
   font-weight: bold;
   background: #f2f2f2;
 }
 .p-mypage-mylesson-detail__list__item__modal__content {
   width: 100%;
   padding: 10px 20px;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: bold;
 }
 .p-mypage-mylesson-detail__list__item__modal__subtext {
